@@ -5,7 +5,7 @@ in order to run:
 1. download zip
 2. extract
 3. open cmd in the current directory
-4. run the foloowing command
+4. run the following command
 :
 ```
 java -jar out\artifacts\Ex2_jar\Ex2.jar data\G1.json
