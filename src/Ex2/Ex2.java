@@ -64,8 +64,8 @@ public class Ex2 {
 //        Frame frame = new Frame();
     }
 
-    public static void main(String[] args) {
-        DirectedWeightedGraphAlgorithms a = getGrapgAlgo("data/G1.json");
-        runGUI("data/G1.json");
-    }
+//    public static void main(String[] args) {
+//        DirectedWeightedGraphAlgorithms a = getGrapgAlgo("data/G1.json");
+//        runGUI("data/G1.json");
+//    }
 }

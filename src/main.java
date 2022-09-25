@@ -10,11 +10,11 @@ public class main {
         Panel P=  new Panel(a);
 
 
-//       if(args.length>0){
+       if(args.length>0){
             GetGraph g= new GetGraph(a,P);
 //           String ans =args[0];
-           String ans = "data/G1.json";
+//           String ans = "data/G1.json";
              g.loadFromJsom(ans);
-//      }
+      }
     }
 }

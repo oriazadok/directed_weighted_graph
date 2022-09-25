@@ -1,5 +1,16 @@
 # OOP_2bar-oria 
 
+# RUN
+in order to run:
+1. download zip
+2. extract
+3. open cmd in the current directory
+4. run the foloowing command
+:
+```
+java -jar out\artifacts\Ex2_jar\Ex2.jar data\G1.json
+```
+
 # Design and implementation of directed and weighted graphs 
 
 ![This is an image](https://user-images.githubusercontent.com/92825016/145035678-cd125e45-64d7-4055-91bb-646ddfbf99ba.png)  
